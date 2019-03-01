@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+# let term = ""
+# let location =""
+#
+# # on signup they can decide this - do nYC for now
+# https://api.yelp.com/v3/businesses/search?term=food&location=nyc

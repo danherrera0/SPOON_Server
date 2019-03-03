@@ -10,9 +10,10 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_03_01_142938) do
+ActiveRecord::Schema.define(version: 2019_03_03_181730) do
 
   # These are extensions that must be enabled in order to support this database
+  enable_extension "hstore"
   enable_extension "plpgsql"
 
   create_table "categories", force: :cascade do |t|
@@ -34,16 +35,13 @@ ActiveRecord::Schema.define(version: 2019_03_01_142938) do
     t.string "name"
     t.string "image"
     t.string "yelp_link"
-    t.json "categories"
     t.integer "rating"
-    t.integer "latitude"
-    t.integer "longitude"
     t.json "coordinates"
     t.string "price"
     t.json "location1"
-    t.json "display_address"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.hstore "tags", array: true
   end
 
   create_table "users", force: :cascade do |t|

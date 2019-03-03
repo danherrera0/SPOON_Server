@@ -13,7 +13,7 @@ class Api::V1::RestaurantsController < ApplicationController
   private
 
   def restaurant_params
-    params.require(:restaurant).permit(:name, :image, :yelp_link, :categories, :rating, :latitude, :longitude, :coordinates, :price, :location1, :display_address)
+    params.require(:restaurant).permit(:name, :image, :yelp_link, :tags, :rating, :coordinates, :price, :location1)
   end
 
 end

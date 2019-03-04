@@ -6,8 +6,7 @@ require "httparty"
 def results
 
     query = {
-      # "term" => "bars",
-      "category" => "bagels"
+      "term" => "restaurants",
       "location" => "nyc",
       "limit" => 50,
       "radius" => 40000,

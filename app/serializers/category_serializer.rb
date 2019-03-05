@@ -1,4 +1,4 @@
 class CategorySerializer < ActiveModel::Serializer
   attributes :id
-  belongs_to :restaurants
+  belongs_to :restaurant
 end

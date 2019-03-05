@@ -1,5 +1,5 @@
 class MatchSerializer < ActiveModel::Serializer
-  belongs_to :restaurants
-  belongs_to :users 
+  belongs_to :restaurant
+  belongs_to :user
   attributes :id, :user_id, :restaurant_id
 end

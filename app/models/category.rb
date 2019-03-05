@@ -1,3 +1,3 @@
 class Category < ApplicationRecord
-  belongs_to :restaurants, required: false
+  belongs_to :restaurant, required: false
 end

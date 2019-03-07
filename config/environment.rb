@@ -1,6 +1,6 @@
 # Load the Rails application.
 require_relative 'application'
-require 'dotenv/load'
+# require 'dotenv/load'
 require "json"
 require "http"
 require "httparty"

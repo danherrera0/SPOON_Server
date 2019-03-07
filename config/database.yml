@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: SpoonServer_production
-  username: SpoonServer
+  username: <%= ENV['SPOONSERVER_DATABASE_USER']
   password: <%= ENV['SPOONSERVER_DATABASE_PASSWORD'] %>

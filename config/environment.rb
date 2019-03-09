@@ -5,6 +5,7 @@ require "json"
 require "http"
 require "httparty"
 
+Dotenv.load
 
 
 # Initialize the Rails application.

@@ -58,6 +58,7 @@ GEM
     crass (1.0.4)
     domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
+    dotenv (2.7.1)
     erubi (1.8.0)
     ffi (1.10.0)
     globalid (0.4.2)
@@ -163,6 +164,7 @@ PLATFORMS
 DEPENDENCIES
   active_model_serializers
   byebug
+  dotenv
   http
   httparty (~> 0.13.7)
   listen (>= 3.0.5, < 3.2)

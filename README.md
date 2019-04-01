@@ -11,13 +11,9 @@ SEE OUR WEB APP IN ACTION, view the demo on YouTube: https://www.youtube.com/wat
 ### Dashboard Page
 ![Spoon1](https://raw.githubusercontent.com/diaaanek/SPOON_Client/master/public/spoon1.png)
 
-
-## 🎯 Stretch Goals
-* Open Table API
-* Implement social authentication
-
 ## 🛠 Built With
-* [React](https://reactjs.org/) 
+* [Javascript](https://www.javascript.com/) 
+* [React](https://reactjs.org/)
 * [Ruby on Rails](https://rubyonrails.org/)
 * [Postgres](https://www.sqlite.org/) 
 
@@ -25,7 +21,7 @@ SEE OUR WEB APP IN ACTION, view the demo on YouTube: https://www.youtube.com/wat
 
 ## (1) Run API
 
-To get started, have the backend API running: [here](https://github.com/danherrera0/SPOON_Server)
+To get started, fork and clone this repo to have the backend API running
 
 Install all dependencies and necessary gems:
 

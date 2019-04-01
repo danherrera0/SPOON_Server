@@ -5,7 +5,10 @@ A Tinder-like swiping web app that matches users based on food preferences. Util
 📌 TO SEE OUR WEB APP IN ACTION, view the [demo on YouTube](https://www.youtube.com/watch?v=OA4ye_u4Gfc)
 
 ### Dashboard Page
-![Spoon1](https://raw.githubusercontent.com/diaaanek/SPOON_Client/master/public/spoon1.png)
+![Spoon1](https://raw.githubusercontent.com/diaaanek/SPOON_Client/master/public/spoon11.png)
+
+### My Plate
+![Spoon2](https://raw.githubusercontent.com/diaaanek/SPOON_Client/master/public/myplate.png)
 
 ## 🛠 Built With
 * [Javascript](https://www.javascript.com/) 

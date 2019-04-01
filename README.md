@@ -1,4 +1,4 @@
-# 🥄 Spoon (Backend)
+# Spoon (Backend)
 
 A Tinder-like swiping web app that matches users based on food preferences. Utilizing React, Yelp API, React-Spring-Hooks, Leaflet Maps API, Rails, Postgres
 

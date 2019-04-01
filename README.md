@@ -18,10 +18,11 @@ A Tinder-like swiping web app that matches users based on food preferences. Util
 
 ## 📑 Installation Guide
 
-In this repository, you will find the  backend for this project built with React JS. 
+In this repository, you will find the backend for this project built with Rails & Postgres.
+
 The React frontend is located: [here](https://github.com/diaaanek/SPOON_Client)
 
-Our API is live and running restaurant [data](https://spoon-server.herokuapp.com/api/v1/restaurants)
+Our API is live on a server and running restaurant [data](https://spoon-server.herokuapp.com/api/v1/restaurants)
 
 ### (1) Run API
 

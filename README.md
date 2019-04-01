@@ -19,7 +19,7 @@ SEE OUR WEB APP IN ACTION, view the demo on YouTube: https://www.youtube.com/wat
 
 ## 📑 Installation Guide
 
-## (1) Run API
+### (1) Run API
 
 To get started, fork and clone this repo to have the backend API running
 
@@ -29,18 +29,18 @@ Install all dependencies and necessary gems:
 
 This app uses Postgres, Create database scheme with migrations:
 
-### ` rake db:create`
+ ` rake db:create`
 
 Seed database:
 
-### ` rake db:seed `
+` rake db:seed `
 
 Start local server:
 
-### ` rails s `
+ ` rails s `
 
 
-## (2) Fork the front end repo
+### (2) Fork the front end repo
 
 In the project directory, you can run:
 
@@ -53,17 +53,17 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 
-## 💻 Supporting Versions
+### 💻 Supporting Versions
 - Ruby 2.0.0, 2.1.x, 2.2.x, 2.3.x
 - React 
 
-## 🤩 Contributing
+### 🤩 Contributing
 
 Contributions are welcomed!  Fork, fix, then send a pull request.
 
 Bug reports and pull requests are welcome on GitHub at [Spoon repo](https://github.com/diaaanek/SPOON_client), please open Issues to provide feedback.
 
 
-## 📗 License
+### 📗 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

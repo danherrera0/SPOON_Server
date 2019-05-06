@@ -4,6 +4,9 @@ A Tinder-like swiping web app that matches users based on food preferences. Util
 
 📌 TO SEE OUR WEB APP IN ACTION, view the [demo on YouTube](https://www.youtube.com/watch?v=OA4ye_u4Gfc)
 
+View live on netlify:
+https://letzspoon.netlify.com/
+
 ### Dashboard Page
 ![Spoon1](https://raw.githubusercontent.com/diaaanek/SPOON_Client/master/public/spoon11.png)
 
